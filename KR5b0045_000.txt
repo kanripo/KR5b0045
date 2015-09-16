@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:47:57.401476
+# -*- mode: mandoku-view -*-
 #+TITLE: 太上洞玄靈寶八威召龍妙經
-#+PROPERTY: DZID  DZ0361
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，6—237 二卷 洞玄部本文類
+#+DATE: 2015-08-28 23:47:58
+#+PROPERTY:  LASTPB <PB KR5b0045_SJB_002-060240b>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶<md:KR5b0045_HFL_002-015b>¶¶¶¶¶¶¶¶¶¶¶
+
